@@ -7,11 +7,8 @@ require (
 	github.com/ethereum/go-ethereum v1.9.9
 	github.com/gballet/go-libpcsclite v0.0.0-20191108122812-4678299bea08 // indirect
 	github.com/google/uuid v1.1.1 // indirect
-	github.com/gxed/hashland/keccakpg v0.0.1 // indirect
-	github.com/gxed/hashland/murmur3 v0.0.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
-	github.com/karalabe/hid v0.0.0-20181128192157-d815e0c1a2e2 // indirect
 	github.com/karalabe/usb v0.0.0-20191104083709-911d15fe12a9 // indirect
 	github.com/miekg/dns v1.1.26
 	github.com/minio/sha256-simd v0.1.1 // indirect
@@ -23,7 +20,6 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.4.2
 	github.com/status-im/keycard-go v0.0.0-20191119114148-6dd40a46baa0 // indirect
-	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/wealdtech/go-ens/v3 v3.1.0
 	github.com/wealdtech/go-eth-listener v1.0.2
