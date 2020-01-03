@@ -1,0 +1,5 @@
+.:8053 {
+  auto {
+    directory /home/jgm/src/go/wealdtech/go-idns/out
+  }
+}
