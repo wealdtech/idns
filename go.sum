@@ -331,8 +331,8 @@ github.com/tyler-smith/go-bip39 v1.0.2/go.mod h1:sJ5fKU0s6JVwZjjcUEX2zFOnvq0ASQ2
 github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/wealdtech/go-ens/v3 v3.1.0 h1:UAAn7keCaIyZau/B/NFPJBo7yszSHpQC5Jh3MH8euz8=
 github.com/wealdtech/go-ens/v3 v3.1.0/go.mod h1:P2OEBvgkhXLrPzPN+eR5z2/wFIGwHyijTDvpuC1xLlo=
-github.com/wealdtech/go-eth-listener v1.0.2 h1:RQgG2GPa4pP/xhUUNqwE/cYpNk9YEQLT7173AYj1CmI=
-github.com/wealdtech/go-eth-listener v1.0.2/go.mod h1:CfmLqskh1ysUxh61EdLRLNW7wCmrlrfGzCDVdxvlLk8=
+github.com/wealdtech/go-eth-listener v1.1.0 h1:w4pxo+ZVFpqpFoakG4CgeoMbaoQd/synwSaZxJclkR8=
+github.com/wealdtech/go-eth-listener v1.1.0/go.mod h1:CfmLqskh1ysUxh61EdLRLNW7wCmrlrfGzCDVdxvlLk8=
 github.com/wealdtech/go-multicodec v1.2.0 h1:9AHSxcSE9F9r6ZvQLAO0EXCdM08QfYohaXmW3k6sSh4=
 github.com/wealdtech/go-multicodec v1.2.0/go.mod h1:aedGMaTeYkIqi/KCPre1ho5rTb3hGpu/snBOS3GQLw4=
 github.com/wealdtech/go-string2eth v1.0.0 h1:jY6b1MVqU6k2Uw/kvcU1Y9/3dDyXfPzZrOFspt82UJs=

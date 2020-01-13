@@ -22,7 +22,7 @@ require (
 	github.com/status-im/keycard-go v0.0.0-20191119114148-6dd40a46baa0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/wealdtech/go-ens/v3 v3.1.0
-	github.com/wealdtech/go-eth-listener v1.0.2
+	github.com/wealdtech/go-eth-listener v1.1.0
 	golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876 // indirect
 	golang.org/x/sys v0.0.0-20191228213918-04cbcbbfeed8 // indirect
 )

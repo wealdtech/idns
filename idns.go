@@ -39,9 +39,9 @@ var dnsZonehashChangedTopic = []byte{0x8f, 0x15, 0xed, 0x4b, 0x72, 0x3e, 0xf4, 0
 
 // IDNSEvent is called when the IDNS module receives an event.
 func IDNSEvent(nextHandler handlers.EventHandler) handlers.EventHandler {
-	return handlers.EventHandlerFunc(func(actx *shared.AppContext, event *types.Log) {
+	return handlers.EventHandlerFunc(func(actx *shared.AppContext, blk *types.Block, tx *types.Transaction, event *types.Log) {
 		if nextHandler != nil {
-			defer nextHandler.Handle(actx, event)
+			defer nextHandler.Handle(actx, blk, tx, event)
 		}
 
 		log = log.WithField("event", event)
